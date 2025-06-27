@@ -1,5 +1,6 @@
 #! /bin/bash
 
+ECHO 
 echo "Doing Multiplication"
 A=20
 B=30
